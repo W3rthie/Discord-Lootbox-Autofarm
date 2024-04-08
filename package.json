@@ -1,0 +1,15 @@
+{
+  "name": "discord-lootbox-auto-farm",
+  "version": "1.0.0",
+  "description": "Automatically farms the discord lootboxes",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "https://github.com/W3rthie",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
